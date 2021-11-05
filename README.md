@@ -1,2 +1,2 @@
-# secuencias
+# secuencia
 Created with CodeSandbox
